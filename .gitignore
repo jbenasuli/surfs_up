@@ -1,5 +1,7 @@
 # OS generated files
 .DS_Store
+# local resources/files not to be uploaded
+local-files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
